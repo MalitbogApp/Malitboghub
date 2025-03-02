@@ -1,2 +1,2 @@
 # Malitboghub
-Jod app for teenager
+good app for teenager
